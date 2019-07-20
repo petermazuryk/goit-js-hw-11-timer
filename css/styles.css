@@ -1,0 +1,15 @@
+.label {
+  display: block;
+  padding: 10px;
+}
+
+.timer {
+  color: blueviolet;
+  display: flex;
+  font-size: 40px;
+  text-align: center;
+  margin: 0 auto;
+  position: absolute;
+  top: 40px;
+  border: 2px solid black;
+}
